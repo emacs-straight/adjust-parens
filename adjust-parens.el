@@ -3,7 +3,8 @@
 ;; Copyright (C) 2013  Free Software Foundation, Inc.
 
 ;; Author: Barry O'Reilly <gundaetiapo@gmail.com>
-;; Version: 3.1
+;; Version: 3.2
+;; Package-Requires: ((emacs "24.3"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
